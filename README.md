@@ -7,3 +7,8 @@ You can link it like this:
 # Chapter-2 : Deployment of IAS Management (Frontend + Backend)
 
 [Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/render-doc.md)
+
+# Chapter-3 : Lead Scraping Approaches & Lessons Learned
+
+[Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/Scraper.md)
+
