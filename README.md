@@ -24,3 +24,6 @@ You can link it like this:
 
 [Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/prisma.md)
 
+# Chapter-7 :  From Database Access to Deployment (Prisma + Next.js)
+
+[Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/git_prisma.md)
