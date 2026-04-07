@@ -12,3 +12,10 @@ You can link it like this:
 
 [Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/Scraper.md)
 
+# Chapter-4 : PostgreSQL Setup & Debugging (macOS · Homebrew)
+
+[Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/postgresql.md)
+
+# Chapter-5 : My Deployment Debugging Journey (Vercel + Render + Vite + Express)
+
+[Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/vercel-json.md)
