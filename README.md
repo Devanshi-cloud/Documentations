@@ -20,7 +20,7 @@ You can link it like this:
 
 [Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/vercel-json.md)
 
-# Prisma Migration & Seeding — Debugging Notes
+# Chapter-6 : Prisma Migration & Seeding — Debugging Notes
 
 [Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/prisma.md)
 
