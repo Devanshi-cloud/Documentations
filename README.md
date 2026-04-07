@@ -19,3 +19,8 @@ You can link it like this:
 # Chapter-5 : My Deployment Debugging Journey (Vercel + Render + Vite + Express)
 
 [Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/vercel-json.md)
+
+# Prisma Migration & Seeding — Debugging Notes
+
+[Read full documentation](https://github.com/Devanshi-cloud/Documentations/blob/main/prisma.md)
+
