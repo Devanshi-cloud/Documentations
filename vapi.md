@@ -117,6 +117,35 @@ Following these steps lets you use an Indian virtual number with Vapi’s voice-
 - [12] https://docs.vapi.ai/api-reference/phone-numbers/create
 - [13] https://docs.vapi.ai/calls/outbound-calling
 - [14] https://en.wikipedia.org/wiki/STIR/SHAKEN
+
+Twilio is the better (and in practice the only viable) choice for an Indian phone number with Vapi right now.
+### 1. The decisive constraint: Plivo + Vapi + India
+Vapi’s own advanced SIP docs for Plivo explicitly say that **Indian phone numbers cannot be used with Plivo on Vapi due to TRAI requirements that SIP termination happen via an Indian server, which Vapi does not support.** [docs.vapi](https://docs.vapi.ai/advanced/sip/plivo)
+This single line basically rules Plivo out for +91 numbers on Vapi, regardless of pricing.
+
+So even though Plivo offers Indian virtual numbers and has clear India voice pricing, you **cannot** use those Indian numbers with Vapi today. [plivo](https://www.plivo.com/voice/pricing/in/)
+### 2. Twilio: works with Vapi for India
+Vapi has a first-class Twilio SIP/number integration guide that shows how to connect Twilio numbers and use them for inbound and outbound calls via Vapi assistants. [docs.vapi](https://docs.vapi.ai/advanced/sip/twilio)
+Twilio supports Indian numbers and exposes them via the same console/API Vapi already integrates with, so the **BYO phone number → Twilio path is officially supported**. [edesy](https://edesy.in/tools/twilio-pricing-calculator)
+
+For India specifically:
+
+- Twilio offers Indian phone numbers (local/mobile) on a monthly rental, currently around a couple of USD per month. [edesy](https://edesy.in/tools/twilio-pricing-calculator)
+- Outbound and inbound per‑minute pricing for India is competitive and well documented in their pricing pages and calculators. [twilio](https://www.twilio.com/en-us/voice/pricing/in)
+
+Given that your goal is “Indian phone number that works with Vapi,” Twilio clears both requirements, while Plivo fails the integration requirement for India.
+### 3. Cost / practicality vs Plivo
+Purely on raw telephony pricing, Plivo’s India voice rates are in the same general low range (per‑minute costs in rupees) and also aimed at high‑volume use. [plivo](https://www.plivo.com/voice/pricing/in/)
+But because Vapi cannot terminate Indian traffic over Plivo today, you’d only be able to use Plivo India numbers with some other PBX or custom SIP stack, not with Vapi. [docs.vapi](https://docs.vapi.ai/advanced/sip/plivo)
+
+So even if Plivo is marginally cheaper per minute in some cases, that **doesn’t help for a Vapi‑based AI calling stack**.
+### 4. Practical recommendation for your use case
+Given all of the above, for a Vapi + India setup:
+
+- Use **Twilio** to buy a single Indian local/mobile number, then import it into Vapi using the Twilio integration or BYO workflow. [edesy](https://edesy.in/tools/twilio-pricing-calculator)
+- Do **not** plan on using an Indian Plivo number directly with Vapi until Vapi either adds India‑specific SIP termination for Plivo or updates their docs to remove that limitation. [docs.vapi](https://docs.vapi.ai/advanced/sip/plivo)
+
+If you want, I can outline a concrete Twilio + Vapi setup plan (step-by-step, including which Twilio console pages to touch and what to put into the Vapi import form) tailored to your exact call volume and use case.
 - [15] https://docs.vapi.ai/tcpa-consent
 - [16] https://talk-q.com/outbound-call-regulations-in-india
 - [17] https://runo.ai/blog/trai-regulations-india
