@@ -3,7 +3,7 @@
 # Module 2 Continued- Software Quality, Defects, Reliability & Role of Testing
 
 # Software Quality
-I define **software quality** as the degree to which software meets:
+I define **software quality** as the degree to which software meets-
 - specified requirements
 - implied user needs
 
