@@ -1,0 +1,10 @@
+There is no organization called the “Google Alpha Satellite Foundation.” What you’re likely referring to is **AlphaEarth Foundations**, a large‑scale AI “foundation model” developed by **Google DeepMind** that works with satellite‑like Earth‑observation data rather than a satellite‑launching foundation. [gim-international](https://www.gim-international.com/content/news/google-introduces-alphaearth-foundations-to-advance-global-environmental-mapping)
+
+### What AlphaEarth Foundations is  
+AlphaEarth Foundations is an AI model trained on petabytes of **satellite imagery, radar, 3D mapping, and climate simulations** to create a compact, global representation of Earth’s surface at about **10‑meter resolution**.  It effectively acts as a **“virtual satellite”** by generating **learned embeddings** (short numerical vectors) for each 10 m × 10 m patch of land, summarizing about a year of multi‑source observations in a way that is much smaller and easier to analyze than raw pixels. [rediminds](https://rediminds.com/case_studies/leveraging-googles-alphaearth-foundations-for-ai-data-center-intelligence/)
+
+### How it is used  
+- The embeddings are publicly available as the **Satellite Embedding dataset in Google Earth Engine**, covering roughly 2017–2024. [linkedin](https://www.linkedin.com/posts/spatialthoughts_earthengine-activity-7356512820194111489-Xfoa)
+- Researchers and organizations use them to **map land cover, monitor deforestation, track water resources, and analyze urban expansion** much faster than traditional methods, often cutting mapping time from weeks or months to hours. [carto](https://carto.com/blog/google-alphaearth-foundations-in-carto/)
+
+In short, **“Google AlphaEarth Foundations”** is a **geospatial AI model “foundation” that compresses satellite‑grade Earth data into easily analyzable vectors**, not a satellite‑launching or space‑hardware foundation. [deepmind](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/)
