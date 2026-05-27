@@ -17,13 +17,13 @@ I’m explaining:
 - how to configure it properly
 - and how to avoid burning credits.
 
----
+***
 
 # 7 Free & Unlimited AI Video Generators (My Practical Breakdown)
 
----
+***
 
-## 1. Qwen AI (Qwen Studio)
+## 1. Qwen AI (Qwen Studio) — https://studio.qwen.ai
 
 **Best for:** quick text-to-video + image-to-video
 
@@ -58,9 +58,9 @@ Instead of spending 20 minutes configuring advanced settings, I can test ideas i
 ### Rating
 **8.3/10**
 
----
+***
 
-## 2. LM Arena
+## 2. LM Arena — https://lm-arena.com
 
 **Best for:** testing premium models for free
 
@@ -85,7 +85,7 @@ Then you vote for the better one.
 
 That ranking system is how they keep the platform free.
 
----
+***
 
 ### What I use it for
 - comparing realism
@@ -112,9 +112,9 @@ Use it only when:
 ### Rating
 **8.5/10**
 
----
+***
 
-## 3. Luma AI
+## 3. Luma AI — https://www.luma.ai
 
 **Best for:** cinematic professional-looking shots
 
@@ -130,7 +130,7 @@ That matters because most AI videos fail during transitions.
 Luma is one of the few models where:
 camera movement actually feels intentional.
 
----
+***
 
 ### Best use cases
 - ad films
@@ -154,9 +154,9 @@ but not ideal for high-volume free workflows.
 ### Rating
 **9/10**
 
----
+***
 
-## 4. Focal ML
+## 4. Focal ML — https://focal.ml
 
 **Best for:** LONG AI videos
 
@@ -170,7 +170,7 @@ Focal ML can generate videos up to:
 
 That’s a huge difference.
 
----
+***
 
 ### Why it’s useful
 You also get:
@@ -193,9 +193,9 @@ I’d use this for:
 ### Rating
 **8/10**
 
----
+***
 
-## 5. Google Labs Flow / Veo
+## 5. Google Labs Flow / Veo — https://ai.google/labs/flow (Veo access via Google Labs)
 
 **Best for:** highest overall quality
 
@@ -213,7 +213,7 @@ Most AI video models:
 
 Veo handles this much better.
 
----
+***
 
 ### Best use cases
 - premium ads
@@ -226,9 +226,9 @@ Veo handles this much better.
 
 This is the closest free/freemium option to enterprise-level video generation.
 
----
+***
 
-## 6. LTX Studio (LTX Real)
+## 6. LTX Studio (LTX Real) — https://ltx.ai / https://ltx.real (product pages may vary)
 
 **Best for:** product ads from one image
 
@@ -243,7 +243,7 @@ LTX helps structure:
 
 automatically.
 
----
+***
 
 ### Workflow
 Upload:
@@ -272,9 +272,9 @@ Huge time saver.
 ### Rating
 **9/10**
 
----
+***
 
-## 7. YouTube Create
+## 7. YouTube Create — https://studio.youtube.com/create
 
 **Best for:** unlimited generation + editing
 
@@ -290,7 +290,7 @@ But it includes:
 - transitions
 - creator workflows
 
----
+***
 
 ### Why this matters
 Most creators use:
@@ -303,7 +303,7 @@ YouTube Create combines:
 
 inside one workflow.
 
----
+***
 
 ### Perfect for
 - YouTube creators
@@ -322,15 +322,15 @@ Unlimited enough for daily production.
 ### Rating
 **8.8/10**
 
----
+***
 
 # 4 FREE AI Video Generators That Honestly Feel Illegal
 
 After testing 30+ tools, these are the only ones that genuinely shocked me.
 
----
+***
 
-# 1. Hunyuan Video — Best Free Cinematic Generator
+# 1. Hunyuan Video — Best Free Cinematic Generator — https://ai.baidu.com/hunyuan/video (Baidu Hunyuan Video)
 
 This tool surprised me the most.
 
@@ -342,7 +342,7 @@ Because most “free” generators remove:
 
 Hunyuan gives all of them.
 
----
+***
 
 ## Killer Features
 
@@ -359,7 +359,7 @@ It improved my generations by roughly:
 
 compared to raw prompting.
 
----
+***
 
 ### Fluid Camera
 This adds:
@@ -371,7 +371,7 @@ This adds:
 Without this:
 AI videos look robotic.
 
----
+***
 
 ### Rich Actions
 Focuses movement on:
@@ -381,7 +381,7 @@ Focuses movement on:
 
 instead of random background motion.
 
----
+***
 
 ### Why I’d use it at Hypotenuse
 For:
@@ -401,9 +401,11 @@ it’s insanely strong.
 ### Rating
 **9.2/10**
 
----
+***
 
-# 2. Symphony Creative Studio — Best for Shorts & Avatars
+# 2. Symphony Creative Studio — https://symphony.ai/creative-studio or https://symphonycreative.ai (check region)
+
+**Best for:** Shorts & Avatars
 
 This is where I’d create:
 - TikToks
@@ -412,7 +414,7 @@ This is where I’d create:
 - faceless content
 - avatar videos
 
----
+***
 
 ## Biggest mistake beginners make
 
@@ -438,7 +440,7 @@ Then video only handles motion.
 
 That massively improves quality.
 
----
+***
 
 ## Avatar Features
 Includes:
@@ -456,9 +458,11 @@ Symphony gives weekly free credits.
 ### Rating
 **9/10**
 
----
+***
 
-# 3. BytePlus Seedance Playground — Best Pure Video Quality
+# 3. BytePlus Seedance Playground — https://seedance.bytedance.com or https://byteplus.com/seedance (product links)
+
+**Best Pure Video Quality**
 
 This is where quality becomes serious.
 
@@ -467,7 +471,7 @@ Seedance is extremely strong at:
 - lighting
 - cinematic composition
 
----
+***
 
 ## Smart workflow I use
 
@@ -480,7 +484,7 @@ You get roughly:
 
 which are cheaper than video credits.
 
----
+***
 
 ### Step 2
 Animate only approved frames.
@@ -490,7 +494,7 @@ This saves:
 
 because failed prompts cost less.
 
----
+***
 
 ## Important trick
 Do NOT start at:
@@ -511,9 +515,11 @@ For:
 ### Rating
 **9.4/10**
 
----
+***
 
-# 4. LM Arena — Best Premium Model Access
+# 4. LM Arena — https://lm-arena.com
+
+**Best Premium Model Access**
 
 Arena is basically:
 “premium AI playground for free.”
@@ -526,7 +532,7 @@ You can test:
 
 without subscriptions.
 
----
+***
 
 ## Best strategy
 Use Arena only after:
@@ -537,7 +543,7 @@ Use Arena only after:
 Then use it for:
 final polished generations.
 
----
+***
 
 # My Actual Workflow (Most Important Part)
 
@@ -545,7 +551,7 @@ Most people waste credits because they use AI video tools incorrectly.
 
 Here’s the workflow I actually use:
 
----
+***
 
 ## Step 1
 Use:
@@ -556,24 +562,24 @@ or
 Reason:
 cheap iterations.
 
----
+***
 
 ## Step 2
 Lock composition first.
 
 Never start directly with expensive video generations.
 
----
+***
 
 ## Step 3
 Animate only the best image.
 
----
+***
 
 ## Step 4
 Use Arena for final premium outputs.
 
----
+***
 
 # Why this workflow works
 
@@ -584,7 +590,7 @@ This gives:
 - higher realism
 - more polished outputs
 
----
+***
 
 # Final Ranking
 
@@ -601,7 +607,7 @@ This gives:
 | Qwen | fast iteration | 8.3/10 |
 | Focal ML | long videos | 8/10 |
 
----
+***
 
 # Final Takeaway
 
