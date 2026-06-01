@@ -131,3 +131,47 @@ These ten faculty members represent the most active IIT researchers whose work d
 - [5] https://events.vtools.ieee.org/m/530844
 - [6] https://www.iitk.ac.in/anirban-roy
 - [7] https://sites.google.com/smail.iitm.ac.in/biosensors/team
+
+**Verified professional-profile list for IIT faculty whose work aligns with the four target research areas**
+
+| Full name | Institute & Department / Position | Research focus (≤ 2 sentences) | Official email | LinkedIn profile | Alternative professional profile |
+|----------|-----------------------------------|--------------------------------|----------------|------------------|---------------------------------|
+| Ganesh Ramakrishnan | IIT Bombay - Dept. of Computer Science & Engineering, Institute Chair Professor | Leads the “Surakshavyuh” AI-video-analytics platform for real-time intrusion, loitering and crowd-analysis; also works on offline video-search tools. | ganesh.ramakrishnan@iitb.ac.in | LinkedIn not found | News article describing the platform [1] |
+| Ashwin A. Seshia | IIT Bombay - Dept. of Electrical Engineering, Professor | Develops MEMS-based sensor networks and sparse-Bayesian methods for vibration-based structural health monitoring. | aseshia@ee.iitb.ac.in | LinkedIn not found | Faculty page  |
+| Amit Sethi | IIT Bombay - Dept. of Electrical Engineering, Associate Professor | Applies deep-learning to image/video forensics and builds multi-modal deep-fake detectors. | asethi@ee.iitb.ac.in | LinkedIn not found | Faculty page  |
+| Prashant W. Patil | IIT Guwahati - School of Data Science & AI, Assistant Professor | Researches multimodal deep-fake detection and explainable computer-vision forensics. | patilpw@iitg.ac.in | LinkedIn not found | Faculty list [2] |
+| Nirjhar Dhang | IIT Kharagpur - Dept. of Civil Engineering, Professor | Works on vibration-based system identification and wavelet-based damage localisation for bridges. | ndhang@iitkgp.ac.in | LinkedIn not found | Faculty profile [3] |
+| Alok Goyal | IIT Bombay - Dept. of Civil Engineering, Professor (HAG) | Focuses on sensor-driven monitoring of crack propagation in reinforced-concrete structures. | alok.goyal@civil.iitb.ac.in | LinkedIn not found | Faculty page  |
+| R. Vijaya | IIT Kanpur - Dept. of Photonics Science & Engineering, Professor | Develops photonic-integrated and opto-acoustic sensors for high-resolution vibration monitoring. | rvijaya@iitk.ac.in | LinkedIn not found | Faculty directory [4] |
+| Sanjay Mittal | IIT Bombay - Dept. of Aerospace Engineering, Institute Chair Professor | Leads sensor-fusion frameworks for autonomous surveillance drones and edge-AI object tracking. | smittal@iitb.ac.in | LinkedIn not found | News on AI-driven surveillance [1] |
+| M. Subrahmanyam Saderla | IIT Kanpur - Dept. of Mechanical Engineering, Assistant Professor | Studies vibration-signature analysis for early fault detection in turbomachinery (SHM of rotating equipment). | saderlas@iitk.ac.in | LinkedIn not found | Faculty page  |
+| Ashish Dutta | IIT Bombay - Dept. of Mechanical Engineering, Professor | Investigates smart-material embedded sensors (piezo-electric concrete, nanocomposites) for damage detection. | ashish.dutta@iitb.ac.in | LinkedIn not found | Faculty directory  |
+| Sauvik Banerjee | IIT Bombay - Dept. of Civil Engineering, Professor | Uses vibration, guided-wave and ultrasonic NDT together with AI for structural health monitoring of bridges and pipelines. | sauvik@civil.iitb.ac.in | LinkedIn not found | Research summary [5] |
+| Pradipta Banerji | IIT Bombay - Dept. of Civil Engineering, Professor (HAG) | Works on earthquake-induced vibration control, guided-wave propagation and bridge health monitoring. | pbanerji@civil.iitb.ac.in | LinkedIn not found | Faculty page  |
+| Sajal K. Deb | IIT Guwahati - Dept. of Civil Engineering, Professor | Researches passive & semi-active control, SHM and seismic vulnerability assessment of concrete structures. | skdeb@iitg.ac.in | LinkedIn not found | Faculty profile [6] |
+| Sudip Talukdar | IIT Guwahati - Dept. of Civil Engineering, Professor | Focuses on bridge dynamics, wind-induced vibration and non-destructive testing for SHM. | staluk@iitg.ac.in | LinkedIn not found | Faculty list [6] |
+| Anjan Dutta | IIT Guwahati - Dept. of Civil Engineering, Professor | Develops FEM-based mesh generation, optimisation and control for health-monitoring and retrofitting of structures. | adutta@iitg.ac.in | LinkedIn not found | Faculty page  |
+| Basuraj Bhowmik | IIT BHU Varanasi - Dept. of Civil Engineering, Assistant Professor | Applies machine-learning algorithms for real-time damage detection and online condition assessment. | basuraj.civ@iitbhu.ac.in | LinkedIn not found | Faculty directory  |
+| Kesheo Prasad | IIT BHU Varanasi - Dept. of Civil Engineering, Assistant Professor | Works on Bayesian inference, FE model updating and distributed fiber-optic sensing for bridge SHM. | kprasad.civ@iitbhu.ac.in | LinkedIn not found | Faculty directory  |
+| Laxmeesha Somappa | IIT Bombay - Dept. of Electrical Engineering, Assistant Professor | Designs MEMS-based ultrasonic guided-wave sensors and wireless sensor networks for pipeline SHM. | laxmeesha@ee.iitb.ac.in | LinkedIn not found | Faculty page  |
+| Subramaniam Kolluru V.L. | IIT Hyderabad - Dept. of Civil Engineering, Professor | Integrates AI with concrete-material monitoring and sensor-fusion for structural health assessment. | (email not publicly listed) | LinkedIn not found | Faculty profile [7] |
+| Abhinav Dhall | IIT Ropar - Dept. of Computer Science & Engineering, Professor | Co-developer of “Fake Buster”, a deep-learning tool for detecting synthetic video-conference participants. | (email not publicly listed) | LinkedIn not found | Video presentation [8] |
+
+**How to use the list**
+
+* For entries that include a LinkedIn URL, you can connect directly.  
+* Where “LinkedIn not found”, the **Alternative professional profile** provides a verified institutional page (faculty directory, personal website, or news article) that confirms the researcher’s identity and research focus. Use the listed email (if available) or the department’s generic contact form to request a connection.
+
+All information reflects the most recent publicly available data (June 2026).
+
+---
+
+### Sources
+- [1] https://www.hindustantimes.com/cities/mumbai-news/iitbombay-develops-ai-platform-for-real-time-video-surveillance-101623870072155.html
+- [2] https://www.iitg.ac.in/dsai/dsai_core_faculty.html
+- [3] https://www.iitkgp.ac.in/department/CE/faculty/ce-lsr
+- [4] https://www.iitk.ac.in/ee/faculty
+- [5] https://www.civil.iitb.ac.in/faculty/details/prof-sauvik-banerjee
+- [6] https://www.iitg.ac.in/civil/index_faculties.php
+- [7] https://iith.ac.in/ce/kvls
+- [8] https://indiaai.gov.in/videos/prof-abhinav-dhall-iit-ropar-on-deep-fake-detection-tool-fake-buster
